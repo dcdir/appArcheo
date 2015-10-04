@@ -1,0 +1,37 @@
+
+(function(compId){var _=null,y=true,n=false,x12='break-word',x40='nowrap',x2='5.0.0',x9='\'Palatino Linotype\', \'Book Antigua\', Palatino, serif',x28='rgba(0,0,0,0)',e18='${btnChapitre3}',x1='5.0.1',x31='1025px',zx='scaleX',x4='both',x47='220px',b='block',x45='TextCopy',x24='1024px',x11='none solid rgb(207, 224, 121)',x35='0',x33='visible',po='center',x='text',x43='4px',x37='Palatino Linotype, Book Antigua, Palatino, serif',e19='${btnChapitre2}',m='rect',e22='${Text2}',x39='700',x5='horizontal',x38='rgba(207,224,121,1.00)',i='none',x6='rgba(192,192,192,1)',x34='bandeau1',x3='5.0.1.386',p='px',o='opacity',lf='left',x44='rgba(0,0,0,1.00)',e16='${bandeau1}',x23='0px',x27='couv4',x25='768px',x46='492px',e30='${couv4}',g='image',l='normal',zy='scaleY',x26='auto',e15='${btnChapitre1Copy}',e20='${titre}',x41='Text',e14='${btnChapitre1}',x13='rgba(255,255,255,1)',tp='top',x8='24',x10='400',e17='${btnChapitre4}',xc='rgba(0,0,0,1)',d='display',x32='308px',e21='${couverture}';var g29='couv.jpg',g36='bandeau1.jpg';var s42="L\'archéologie<br>à l\'école",s7="Le terme archéologie vient du grec archeos (ancien) et de logos (science). C’est une science humaine qui étudie les choses anciennes. Elle consiste à restituer le passé des hommes à partir de traces matérielles laissées dans le sol. L’archéologie est indispensable pour la connaissance des périodes ayant laissé peu de traces écrites. C’est une discipline complémentaire de l’Histoire qui, elle, se base sur des documents écrits. ";var im='images/',aud='media/',vid='media/',js='js/',fonts={},opts={'gAudioPreloadPreference':'auto','gVideoPreloadPreference':'auto'},resources=[],scripts=[],symbols={"stage":{v:x1,mv:x2,b:x3,stf:x4,cg:x5,rI:n,cn:{dom:[{id:'couverture',symbolName:'couverture',v:b,t:m,r:['-116px','0px','1024','768','auto','auto'],o:'1',tf:[[],[],[],['2','2']]},{id:'bandeau1',symbolName:'Symbol_1',v:i,t:m,r:['0','0','1025','308','auto','auto'],o:'0'},{id:'btnChapitre4',v:b,t:m,r:['828px','693px','176px','61px','auto','auto'],br:["10px","10px","10px","10px"],o:'0',f:[x6],s:[0,xc,i]},{id:'Text2',v:i,t:x,r:['50%','56.6%','50%','43.4%','auto','auto'],o:'0',text:s7,align:"justify",n:[x9,[x8,p],"rgba(0,0,0,1.00)",x10,x11,l,x12,l]},{id:'btnChapitre3',v:b,t:m,r:['574px','693px','176px','61px','auto','auto'],br:["10px","10px","10px","10px"],o:'0',f:[x6],s:[0,xc,i]},{id:'btnChapitre2',v:b,t:m,r:['308px','693px','176px','61px','auto','auto'],br:["10px","10px","10px","10px"],o:'0',f:[x6],s:[0,xc,i]},{id:'btnChapitre1',v:b,t:m,r:['33px','701px','176px','61px','auto','auto'],br:["10px","10px","10px","10px"],o:'0',f:[x6],s:[0,xc,i]},{id:'titre',symbolName:'titre',v:b,t:m,r:['525px','55px','492','220','auto','auto'],o:'0'},{id:'btnChapitre1Copy',v:b,t:m,r:['700px','330px','176px','61px','auto','auto'],br:["10px","10px","10px","10px"],o:'0',f:[x6],s:[0,xc,i]}],style:{'${Stage}':{isStage:true,r:['null','null','1024px','768px','auto','auto'],zr:['0px','1028px','',''],overflow:'hidden',f:[x13]}}},tt:{d:8300,a:y,data:[["eid96",lf,3500,0,"linear",e14,'33px','33px'],["eid141",lf,5353,0,"linear",e14,'33px','33px'],["eid157",tp,8050,0,"linear",e15,'330px','330px'],["eid158",tp,8300,0,"linear",e15,'330px','330px'],["eid25",o,7011,1050,"linear",e16,'0','1'],["eid152",lf,8050,0,"linear",e15,'700px','700px'],["eid30",d,0,0,"linear",e17,b,b],["eid31",d,3500,0,"linear",e17,b,b],["eid120",d,4800,0,"linear",e17,b,i],["eid102",lf,3750,0,"linear",e18,'574px','574px'],["eid98",tp,3500,250,"linear",e14,'701px','693px'],["eid139",tp,5353,250,"linear",e14,'701px','693px'],["eid92",o,3500,250,"linear",e19,'0','1'],["eid156",d,8050,0,"linear",e15,i,b],["eid144",d,4800,0,"linear",e20,b,i],["eid21",d,0,0,"linear",e16,i,b],["eid20",d,7011,0,"linear",e16,b,b],["eid33",o,3500,250,"linear",e17,'0','1'],["eid115",lf,0,3816,"linear",e21,'-116px','0px'],["eid89",o,3500,250,"linear",e18,'0','1'],["eid78",o,0,3500,"linear",e20,'0','1'],["eid104",o,3500,1300,"linear",e20,'1','0'],["eid28",o,3750,1050,"linear",e21,'1','0'],["eid150",o,8050,250,"linear",e15,'0','1'],["eid124",o,7000,1050,"linear",e22,'0','1'],["eid79",lf,3500,0,"linear",e20,'525px','525px'],["eid101",lf,3750,0,"linear",e19,'308px','308px'],["eid34",d,0,0,"linear",e21,b,b],["eid29",d,3750,0,"linear",e21,b,b],["eid143",d,4800,0,"linear",e21,b,i],["eid95",o,3500,250,"linear",e14,'0','1'],["eid140",o,5353,250,"linear",e14,'0','1'],["eid93",d,0,0,"linear",e14,b,b],["eid94",d,3500,0,"linear",e14,b,b],["eid117",d,4800,0,"linear",e14,b,i],["eid142",d,5353,0,"linear",e14,i,b],["eid146",d,5603,0,"linear",e14,b,i],["eid114",zy,0,3816,"linear",e21,'2','1'],["eid90",d,0,0,"linear",e19,b,b],["eid91",d,3500,0,"linear",e19,b,b],["eid118",d,4800,0,"linear",e19,b,i],["eid113",zx,0,3816,"linear",e21,'2','1'],["eid87",d,0,0,"linear",e18,b,b],["eid88",d,3500,0,"linear",e18,b,b],["eid119",d,4800,0,"linear",e18,b,i],["eid116",tp,0,3816,"linear",e21,'0px','0px'],["eid121",d,0,0,"linear",e22,i,i],["eid122",d,7000,0,"linear",e22,i,b],["eid80",tp,3500,0,"linear",e20,'55px','55px']]}},"couverture":{v:x1,mv:x2,b:x3,stf:i,cg:i,rI:n,cn:{dom:[{t:g,v:b,r:[x23,x23,x24,x25,x26,x26],id:x27,f:[x28,im+g29,x23,x23]}],style:{'${symbolSelector}':{r:[_,_,x24,x25]}}},tt:{d:0,a:y,data:[["eid1",d,0,0,"linear",e30,b,b]]}},"Symbol_1":{v:x1,mv:x2,b:x3,stf:i,cg:i,rI:n,cn:{dom:[{r:[x23,x23,x31,x32,x26,x26],t:g,overflow:x33,id:x34,o:x35,v:b,f:[x28,im+g36,x23,x23]}],style:{'${symbolSelector}':{r:[_,_,x31,x32]}}},tt:{d:4000,a:y,data:[["eid2",d,4000,0,"linear",e16,b,b],["eid8",o,4000,0,"linear",e16,'0','1']]}},"titre":{v:x1,mv:x2,b:x3,stf:i,cg:i,rI:n,cn:{dom:[{n:[x37,[80,p],x38,x39,i,'',x12,x40],t:x,id:x41,text:s42,align:po,r:[x23,x43,x26,x26,x26,x26]},{n:[x37,[80,p],x44,x39,i,'',x12,x40],t:x,id:x45,text:s42,align:po,r:[x43,x23,x26,x26,x26,x26]}],style:{'${symbolSelector}':{r:[_,_,x46,x47]}}},tt:{d:0,a:y,data:[]}}};AdobeEdge.registerCompositionDefn(compId,symbols,fonts,scripts,resources,opts);})("EDGE-22131475");
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;Edge.registerEventBinding(compId,function($){
+//Edge symbol: 'stage'
+(function(symbolName){Symbol.bindTriggerAction(compId,symbolName,"Default Timeline",3750,function(sym,e){sym.stop();});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${btnChapitre4}","click",function(sym,e){sym.play();});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${btnChapitre3}","click",function(sym,e){sym.play();});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${btnChapitre2}","click",function(sym,e){sym.play();});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${btnChapitre1}","click",function(sym,e){sym.play(7000);});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${btnChapitre1Copy}","click",function(sym,e){window.open("quiz/qcm01.html","_blank");});
+//Edge binding end
+})("stage");
+//Edge symbol end:'stage'
+
+//=========================================================
+
+//Edge symbol: 'couverture'
+(function(symbolName){})("couverture");
+//Edge symbol end:'couverture'
+
+//=========================================================
+
+//Edge symbol: 'Symbol_1'
+(function(symbolName){})("Symbol_1");
+//Edge symbol end:'Symbol_1'
+
+//=========================================================
+
+//Edge symbol: 'titre'
+(function(symbolName){})("titre");
+//Edge symbol end:'titre'
+})})(AdobeEdge.$,AdobeEdge,"EDGE-22131475");

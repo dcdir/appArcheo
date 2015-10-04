@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="UTF-8" />
+  <title></title>
+  <link href="quiz.css" rel="stylesheet" type="text/css" />
+  <script src="jquery-1.7.1.min.js" type="text/javascript"></script>
+  <script src="quiz.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  //<![CDATA[
+
+            $(document).ready(function() {
+                var quiz = Object.create(Quiz);
+                var xmldoc = $("<quiz format='show-all'> <title>Asarcizia di capiscera<\/title> <item type='select-one'> <question>Comu si chjama u signori ingannadori?<\/question> <list type='a'> <choice>­Piubbettu<\/choice> <choice correct='true'>Ursalamanu<\/choice> <choice>­Ghjudici<\/choice> <\/list> <\/item><item type='select-one'> <question>Chì prumetti l’aroiu à u signori, in più di a muddera?<\/question> <list type='a'> <choice>una curonna<\/choice> <choice>un mufronu<\/choice> <choice correct='true'>un cavaddu<\/choice> <\/list> <\/item><item type='select-one'> <question>Induva hè intarratu Ursalamanu?<\/question> <list type='a'> <choice>in a ghjesa paruchjali<\/choice> <choice correct='true'>sott’à qualchì petra<\/choice> <choice>in piazza à u paesu<\/choice> <\/list> <\/item><item type='select-one'> <question>Comu finisci l’affari?<\/question> <list type='a'> <choice>u cantonu hè appacciatu<\/choice> <choice>a ghjenti di tutti i loca à l’intornu venini è ci si stabbiliscini<\/choice> <choice correct='true'>ùn ferma ch’è dui paesi : Conca è Lu Spitali<\/choice> <\/list> <\/item> <\/quiz>");
+                                 
+                quiz.initFromXmlDoc(xmldoc[0]);
+            });
+           
+  //]]>
+  </script>
+
+</head>
+
+<body>
+  <div id="quiz-impl-target"></div>
+
+</body>
+</html>

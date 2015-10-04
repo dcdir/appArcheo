@@ -1,0 +1,38 @@
+fieldset {
+    margin-bottom: 10px;
+	border: 0;
+    font-size: 1.2em;
+}
+
+.answer {
+    font-style: italic;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
+
+#flashcard {
+    border: thin solid black;
+    padding: 2em;
+    margin-bottom: 2em;
+}
+
+li {
+  padding: 5px;
+}
+
+
+.increase {
+    width:30px;
+    height:30px;
+}
+
+.btnClass {
+	font-size: 20px;
+	font-weight:bold;
+}
